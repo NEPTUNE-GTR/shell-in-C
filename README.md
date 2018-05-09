@@ -1,4 +1,4 @@
 # shell-in-C
 
 
-a simple shell implementation, that sets user variables, pre-loads commands, and pipes commands
+A simple shell implementation, that sets user variables, forks and execs processes, pre-loads, and pipes commands
